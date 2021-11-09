@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165630646179",
+    "project_id": "apple-login-app-673db",
+    "storage_bucket": "apple-login-app-673db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165630646179:android:034ac1e387f6ddc73e2c16",
+        "android_client_info": {
+          "package_name": "mn.jagaa.apple_login_app.apple_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165630646179-in8uljsv86qmvlcfh7nmv2on20m4d9bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mn.jagaa.apple_login_app.apple_login_app",
+            "certificate_hash": "38f1c5ed5597ad84a701d1dfa2c0613c88339ba7"
+          }
+        },
+        {
+          "client_id": "165630646179-igsigb9ir9k05vpv3q4m97lehbl8f5dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC853dQDgk-z66YvS1Jo81Yst3Fh8jjQfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165630646179-igsigb9ir9k05vpv3q4m97lehbl8f5dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
